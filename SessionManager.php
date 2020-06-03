@@ -1,5 +1,12 @@
 <?php
 
+############################################
+#                                          #
+# Created by TeissierYannis                #
+# Github: http://github.com/teissierYannis/#
+#                                          #
+############################################
+
 namespace TeissierYannis\Utils;
 
 class SessionManager {
