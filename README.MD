@@ -31,7 +31,7 @@ require '../Class/SessionManager.php';
 
 SessionManager::setUserID($id)->setUserType($type);
 
-if(SessionManager::isLoged()){
+if(SessionManager::isLogged()){
     var_dump(SessionManager::getUserID(), SessionManager::getUserType());
 }
 ```
